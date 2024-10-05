@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Max's machine has a gear that rotates at (2<sup>3</sup>)<sup>2</sup> speed. What is the speed of the gear?",
+        "options": [
+            "2<sup>5</sup>",
+            "2<sup>6</sup>",
+            "256",
+            "128"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Another gear rotates at (3<sup>2</sup>)<sup>3</sup>. What is the simplified value of this rotation speed?",
+        "options": [
+            "3<sup>5</sup>",
+            "3<sup>6</sup>",
+            "3<sup>4</sup>",
+            "1"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Max builds a faster machine with (5<sup>2</sup>)<sup>4</sup>. What is the final exponent after simplifying?",
+        "options": [
+            "5<sup>6</sup>",
+            "5<sup>8</sup>",
+            "5<sup>10</sup>",
+            "5<sup>12</sup>"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "If a machine's rotation is represented by (4<sup>3</sup>)<sup>2</sup>, what is the numerical value?",
+        "options": [
+            "64",
+            "512",
+            "4096",
+            "256"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Max designs a new gear with (7<sup>2</sup>)<sup>3</sup>. What is the exponent after simplifying?",
+        "options": [
+            "7<sup>5</sup>",
+            "7<sup>4</sup>",
+            "7<sup>6</sup>",
+            "1"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q6",
+        "question": "What is (6<sup>3</sup>)<sup>3</sup> simplified to?",
+        "options": [
+            "6<sup>6</sup>",
+            "6<sup>9</sup>",
+            "6<sup>12</sup>",
+            "6<sup>8</sup>"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Max is improving his machines and uses (10<sup>4</sup>)<sup>3</sup>. What is the final exponent after simplifying?",
+        "options": [
+            "10<sup>12</sup>",
+            "10<sup>6</sup>",
+            "10<sup>8</sup>",
+            "10<sup>10</sup>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q8",
+        "question": "For a faster machine, Max uses (8<sup>2</sup>)<sup>4</sup>. What is the final exponent after simplifying?",
+        "options": [
+            "8<sup>6</sup>",
+            "8<sup>8</sup>",
+            "8<sup>10</sup>",
+            "8<sup>12</sup>"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Max’s next machine is modeled using (9<sup>3</sup>)<sup>5</sup>. What is the simplified result?",
+        "options": [
+            "9<sup>6</sup>",
+            "9<sup>15</sup>",
+            "9<sup>5</sup>",
+            "9<sup>8</sup>"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10",
+        "question": "For an advanced project, Max works with (12<sup>2</sup>)<sup>4</sup>. What is the final exponent?",
+        "options": [
+            "12<sup>8</sup>",
+            "12<sup>6</sup>",
+            "12<sup>10</sup>",
+            "12<sup>4</sup>"
+        ],
+        "correct": 0
+    }
+]
